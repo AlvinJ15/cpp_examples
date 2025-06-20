@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TESTS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "c20_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c20_tests-Debug-822aca341a1e7a9fe6d9.json",
+					"name" : "c20_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "casts_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-casts_tests-Debug-5cae8c2657e71ae78408.json",
+					"name" : "casts_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "classes_inheritance_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-classes_inheritance_tests-Debug-448019490d1d33e4f624.json",
+					"name" : "classes_inheritance_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "classes_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-classes_tests-Debug-e2aecf8140277a648392.json",
+					"name" : "classes_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "const_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-const_tests-Debug-1dba6b5d5e105a3b77fd.json",
+					"name" : "const_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "enum_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-enum_tests-Debug-bbc5198281c3b4c6ce3c.json",
+					"name" : "enum_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exceptions_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exceptions_test-Debug-4b468c5f0be9a092bf06.json",
+					"name" : "exceptions_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "function_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-function_tests-Debug-a7bc887ae9a80ae2d514.json",
+					"name" : "function_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointers_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers_tests-Debug-ab78ebc2779b73629eb4.json",
+					"name" : "pointers_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "smart_pointers_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smart_pointers_test-Debug-49fc2d3bb5518097decc.json",
+					"name" : "smart_pointers_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_tests-Debug-4a71efd77f3a24c280b6.json",
+					"name" : "std_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "streams_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-streams_tests-Debug-01eed411d869509a402b.json",
+					"name" : "streams_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string_tests-Debug-9390f4b9054be38355bd.json",
+					"name" : "string_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "template_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-template_tests-Debug-a6157b189475e2b90b78.json",
+					"name" : "template_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "thread_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thread_tests-Debug-c677714eb7d6ad428cac.json",
+					"name" : "thread_tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alvin/CLionProjects/cpp_examples/cmake-build-debug",
+		"source" : "/home/alvin/CLionProjects/cpp_examples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

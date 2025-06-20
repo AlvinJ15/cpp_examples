@@ -1,0 +1,17 @@
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/string_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/pointers_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/const_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/function_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/classes_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/classes_inheritance_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/template_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/enum_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/casts_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/exceptions_test.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/smart_pointers_test.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/streams_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/std_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/thread_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/c20_tests.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alvin/CLionProjects/cpp_examples/cmake-build-debug/CMakeFiles/rebuild_cache.dir
